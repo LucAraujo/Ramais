@@ -1,0 +1,14 @@
+
+input[type=button] {
+    color:#08233e;
+   	font-family: 'Noto Serif', serif;
+    font-size:100%;
+    margin-top: -8px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+
+input[type=button]:hover {
+    background-color: grey;
+    color: #FFFFFF;
+}
