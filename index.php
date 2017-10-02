@@ -33,9 +33,9 @@
             <div class="title">     <!-- TÍTULO TA TABELA -->
                   <h1>RAMAIS VULCAN</h1>
             </div>
-                                          
-            <div id="clique">       <!-- BOTÃO IR PARA CELULARES -->      
-                  <a href="celulares.php"><img src="/ramais/imagens/clique_aqui4.png" width="300px" height="45px"><a/>
+                                    <!--IR PARA CELULARES -->      
+            <div class="formtel">         
+				<a href="/ramais/celulares.php"> <input type="button"  value="&rArr; Ir para Celulares"/><a/>
             </div>
 
             <table id="tabela">                   
